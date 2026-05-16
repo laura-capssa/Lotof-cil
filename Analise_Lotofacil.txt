@@ -1,0 +1,103 @@
+==================================================
+ ANÁLISE ESTATÍSTICA LOTOFÁCIL
+==================================================
+
+NÚMEROS MAIS SORTEADOS:
+
+Número 20: 2305 vezes
+Número 10: 2299 vezes
+Número 25: 2288 vezes
+Número 11: 2270 vezes
+Número 13: 2243 vezes
+Número 24: 2239 vezes
+Número 1: 2235 vezes
+Número 4: 2232 vezes
+Número 14: 2226 vezes
+Número 3: 2218 vezes
+Número 12: 2216 vezes
+Número 2: 2211 vezes
+Número 5: 2210 vezes
+Número 22: 2205 vezes
+Número 15: 2201 vezes
+Número 19: 2198 vezes
+Número 9: 2197 vezes
+Número 18: 2193 vezes
+Número 21: 2189 vezes
+Número 7: 2179 vezes
+Número 6: 2166 vezes
+Número 17: 2164 vezes
+Número 23: 2161 vezes
+Número 8: 2137 vezes
+Número 16: 2108 vezes
+
+==================================================
+PARES MAIS FREQUENTES:
+
+(11, 20): 1408 vezes
+(10, 25): 1405 vezes
+(10, 20): 1398 vezes
+(13, 20): 1392 vezes
+(20, 25): 1389 vezes
+(10, 11): 1379 vezes
+(14, 20): 1376 vezes
+(9, 10): 1368 vezes
+(1, 10): 1368 vezes
+(10, 24): 1366 vezes
+(10, 12): 1364 vezes
+(12, 25): 1362 vezes
+(10, 14): 1361 vezes
+(11, 25): 1360 vezes
+(24, 25): 1360 vezes
+(12, 20): 1357 vezes
+(18, 20): 1355 vezes
+(4, 11): 1354 vezes
+(3, 25): 1353 vezes
+(1, 20): 1351 vezes
+
+==================================================
+JOGO SUGERIDO:
+
+[1, 2, 3, 4, 5, 10, 11, 12, 13, 14, 15, 20, 22, 24, 25]
+
+==================================================
+CUSTO BENEFÍCIO:
+
+15 números -> Valor: R$ 3.50 | 15 pontos: 1 em 3,268,760
+16 números -> Valor: R$ 56.00 | 15 pontos: 1 em 204,298
+17 números -> Valor: R$ 476.00 | 15 pontos: 1 em 24,035
+18 números -> Valor: R$ 2856.00 | 15 pontos: 1 em 4,006
+19 números -> Valor: R$ 13566.00 | 15 pontos: 1 em 843
+20 números -> Valor: R$ 54264.00 | 15 pontos: 1 em 211
+
+==================================================
+COMO FUNCIONAM AS PROBABILIDADES:
+
+As probabilidades NÃO são baseadas em
+quantidade de pessoas jogando.
+
+Elas são calculadas matematicamente
+usando análise combinatória.
+
+Exemplo:
+Uma aposta simples de 15 números possui:
+
+1 chance em 3.268.760
+
+==================================================
+SUGESTÕES DE JOGOS:
+
+1. [1, 2, 3, 4, 5, 7, 8, 9, 11, 15, 16, 19, 22, 24, 25]
+2. [1, 2, 3, 5, 6, 8, 9, 10, 12, 14, 16, 18, 21, 23, 25]
+3. [1, 3, 4, 6, 7, 8, 10, 11, 13, 15, 17, 18, 20, 22, 24]
+4. [2, 4, 5, 6, 7, 9, 11, 12, 13, 15, 16, 18, 19, 23, 25]
+5. [1, 2, 4, 5, 7, 8, 10, 12, 14, 15, 17, 19, 21, 24, 25]
+6. [2, 3, 5, 6, 8, 9, 11, 13, 14, 16, 17, 20, 22, 23, 25]
+7. [1, 3, 4, 5, 7, 9, 10, 11, 13, 15, 18, 19, 20, 24, 25]
+8. [1, 2, 4, 6, 7, 8, 9, 12, 13, 14, 16, 18, 21, 22, 25]
+9. [2, 3, 4, 5, 6, 8, 10, 11, 14, 15, 17, 19, 20, 23, 24]
+10. [1, 2, 3, 5, 7, 9, 11, 12, 13, 16, 18, 20, 21, 24, 25]
+11. [1, 4, 5, 6, 8, 9, 10, 12, 14, 15, 17, 19, 22, 23, 25]
+12. [2, 3, 4, 6, 7, 8, 11, 13, 15, 16, 18, 20, 21, 24, 25]
+13. [1, 2, 5, 6, 7, 9, 10, 11, 14, 15, 17, 18, 20, 22, 24]
+14. [1, 3, 4, 5, 8, 9, 12, 13, 14, 16, 18, 19, 21, 23, 25]
+15. [2, 3, 4, 6, 7, 10, 11, 12, 13, 15, 17, 20, 22, 24, 25]
